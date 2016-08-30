@@ -1,0 +1,35 @@
+{
+  "username": "adius",
+  "website": "http://adriansieber.com/",
+  "display_name": "Adrian Sieber",
+  "uuid": "{1452fb27-4863-427e-83bd-062b2c8c3d76}",
+  "links": {
+    "hooks": {
+      "href": "https://api.bitbucket.org/2.0/users/adius/hooks"
+    },
+    "self": {
+      "href": "https://api.bitbucket.org/2.0/users/adius"
+    },
+    "repositories": {
+      "href": "https://api.bitbucket.org/2.0/repositories/adius"
+    },
+    "html": {
+      "href": "https://bitbucket.org/adius/"
+    },
+    "followers": {
+      "href": "https://api.bitbucket.org/2.0/users/adius/followers"
+    },
+    "avatar": {
+      "href": "https://bitbucket.org/account/adius/avatar/32/"
+    },
+    "following": {
+      "href": "https://api.bitbucket.org/2.0/users/adius/following"
+    },
+    "snippets": {
+      "href": "https://api.bitbucket.org/2.0/snippets/adius"
+    }
+  },
+  "created_on": "2014-04-30T16:30:21.063084+00:00",
+  "location": null,
+  "type": "user"
+}

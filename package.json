@@ -1,0 +1,26 @@
+{
+  "name": "@datatypes/user",
+  "version": "0.1.0",
+  "description": "Class for users",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "unit-tests": "find ./tests -iname '*.js' -exec node {} \\;",
+    "test": "npm run unit-tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/datatypesjs/user"
+  },
+  "keywords": [
+    "datatype"
+  ],
+  "author": "Adrian Sieber",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/datatypesjs/user/issues"
+  },
+  "homepage": "https://github.com/datatypesjs/user#readme"
+}
