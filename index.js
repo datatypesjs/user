@@ -26,7 +26,7 @@ module.exports = class User {
     const {id, name, username, accountUrl} = this
     return {id, name, username, accountUrl}
   }
-  toJson () {
+  toJSON () {
     return this.object
   }
 
